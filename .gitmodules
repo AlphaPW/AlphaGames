@@ -1,3 +1,6 @@
 [submodule "ParAZ_Gomoku"]
 	path = ParAZ_Gomoku
 	url = https://github.com/pwang649/ParAZ_Gomoku
+[submodule "Parallel_AlphaZero_Gomoku"]
+	path = Parallel_AlphaZero_Gomoku
+	url = https://github.com/AlphaPW/Parallel_AlphaZero_Gomoku
